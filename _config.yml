@@ -7,9 +7,9 @@ permalink:        pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            Hyde
+title:            Zhenbo Sun
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Department Computer Science and Technology, Tsinghua University'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -20,7 +20,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          4.0.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           https://github.com/Bran-Sun
