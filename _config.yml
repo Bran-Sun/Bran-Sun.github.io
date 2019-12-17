@@ -10,7 +10,7 @@ plugins: [jekyll-paginate]
 title:            Zhenbo Sun
 description:      'Department Computer Science and Technology, Tsinghua University'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://bran-sun.github.io/
 
 author:
   name:           'Mark Otto'
