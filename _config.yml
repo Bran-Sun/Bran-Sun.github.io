@@ -8,7 +8,6 @@ plugins: [jekyll-paginate]
 
 # Setup
 title:            Zhenbo Sun
-tagline:          'A Jekyll theme'
 description:      'Department Computer Science and Technology, Tsinghua University'
 url:              http://hyde.getpoole.com
 baseurl:          /
