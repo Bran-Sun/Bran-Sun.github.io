@@ -3,10 +3,22 @@ layout: page
 title: Project
 ---
 
-Last update: Dec. 2019
+Last update: July, 2020
 
 ## Current Projects
 ---
+
+### Approximate Graph mining
+
+We are working on it.
+
+## Past Projects
+---
+#### GPU Sparse
+
+* Introduction: TACO(The Tensor Algebra Compiler) is a fast and versatile library for tensor algebra. We want to parallelize the computation of sparse tensor computation by unfolding every dimension of the tensor and segmentedly sorting them using GPU.
+
+* Result: our system performs seven times better than TACO(We optimized TACO by enabling it for multi-thread computation for sparse tensor) on computation speed.
 
 #### Blockgraph: A Scalable Alternative To Blockchain
 
@@ -15,11 +27,6 @@ Last update: Dec. 2019
 * Motivation: Locality Principle. A locality can be any group of people who will transact within the group to a greater extent than outside the group. For example, people in the same place, company, organization.
 
 * Method: The Blockgraph splits the blockchain into a global chain and multiple local chains. Every locality has its own chain and all local chains are synchronized to the global chain. If an end user wants to spend money in another locality, she has to transfer her money to that locality first.
-
-* My contributions:
-	1. implemented Blockgraph based on Bitcoin-0.11
-	2. designed part of protocols and consensus mechanism
-	3. conducted mathematical analysis about the security of Blockgraph
 
 You can read the <a href="../public/doc/blockgraph.pdf">poster</a> to better understand our project.
 
@@ -32,13 +39,4 @@ You can read the <a href="../public/doc/blockgraph.pdf">poster</a> to better und
 * Result: Users are able to write C program to draw objects with the OpenGL ES library. And the following picture is when we ran our codes on Raspi3.
 
 <img src="../public/img/rcore_driver.PNG" width="800" />
-
-
-## Past Projects
----
-#### GPU Sparse
-
-* Introduction: TACO(The Tensor Algebra Compiler) is a fast and versatile library for tensor algebra. We want to parallelize the computation of sparse tensor computation by unfolding every dimension of the tensor and segmentedly sorting them using GPU.
-
-* Result: our system performs seven times better than TACO(We optimized TACO by enabling it for multi-thread computation for sparse tensor) on computation speed.
 

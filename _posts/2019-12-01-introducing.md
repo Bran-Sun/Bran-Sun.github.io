@@ -5,7 +5,9 @@ title: About me
 
 <img src="public/img/zhenbo.jpeg" alt="drawing" width="200"/>
 
-Hello! I'm Zhenbo Sun(孙桢波), a senior student in Department of Computer Science and Technology, Tsinghua University.
+Hi! I'm Zhenbo Sun(孙桢波), a new PhD student of University of Southern California(2020 Fall).
+
+I graduated from Tsinghua University.
 
 I have great interest in exploring the world of computer systems and architecture. I have broad interests including distributed systems, OS design and verification, compilers, and parallel algorithms. 
 
